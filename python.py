@@ -40,11 +40,17 @@ print(5*4) #this is a comment
 
 a, b = 15, 4
 print(a+b) #output: 19 addition
+
 print(a-b) #output: 11 subtraction
+
 print(a/b) #output: 3.75 division
+
 print(a//b) #output: 3 floor division
+
 print(a % b) #output: 3 modulus
+
 print(a**b) #output:50625 power
+
 x = 5
 y = "John"
 print(x)
