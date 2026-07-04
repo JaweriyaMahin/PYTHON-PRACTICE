@@ -300,4 +300,3 @@ print(type(city))
 # <class 'NoneType'>
 
 
-
