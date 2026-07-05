@@ -43,5 +43,31 @@ DAY 02 CONTAIN PRACTICE EXAMPLES OF PYTHON "INPUT FUNCTION"
 
 ## FILE PYTHON DAY 2.PY
 
-## CREATED BY 
+# DAY O3 PYTHON PRACTICE
+
+## TOPIC COVERED
+- INTEGER(int)
+- FLOAT(float)
+- STRING(str)
+- BOOLEAN(bool)
+- LIST(list)
+- TUPLE(tuple)
+- SET(set)
+- DICTIONARY (dict)
+- NONE(none)
+
+## practice topics 
+- creating variables pf different data types
+- printing variables values
+- checking data types using type()
+
+## outcome 
+- the purpose of each python data type
+- how to declare variables
+- how to check data types
+- basic types conversion
+- when to use different data types
+
+
+- ## CREATED BY 
 JAWERIYA MAHIN.
