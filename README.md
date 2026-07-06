@@ -66,8 +66,34 @@ DAY 02 CONTAIN PRACTICE EXAMPLES OF PYTHON "INPUT FUNCTION"
 - how to declare variables
 - how to check data types
 - basic types conversion
-- when to use different data types
+- when to use different data type
 
 
-- ## CREATED BY 
-JAWERIYA MAHIN.
+# DAY O4 PRACTICE PYTHON
+
+## PYTHON OPERATORS
+This repository contains basic Python operator examples with simple syntax and outputs
+
+## TOPIC COVERED: 
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Identity Operators
+- Membership Operators
+- Ternary Operator
+- Logical operator
+
+## What You'll Learn
+- Basic operator syntax
+- How each operator works
+- Simple examples with output
+- Beginner-friendly practice
+
+## technology used
+- python
+- vs code
+
+
+## created by 
+JAWERIYA MAHIN
+
