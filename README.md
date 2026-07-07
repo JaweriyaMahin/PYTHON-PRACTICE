@@ -72,7 +72,7 @@ DAY 02 CONTAIN PRACTICE EXAMPLES OF PYTHON "INPUT FUNCTION"
 # DAY O4 PRACTICE PYTHON
 
 ## PYTHON OPERATORS
-This repository contains basic Python operator examples with simple syntax and outputs
+This FILE contains basic Python operator examples with simple syntax and outputs
 
 ## TOPIC COVERED: 
 - Arithmetic Operators
@@ -93,6 +93,24 @@ This repository contains basic Python operator examples with simple syntax and o
 - python
 - vs code
 
+# DAY 5 PYTHON PRACTICE
+
+THIS FILE CONTAIN BASIC PUTHON LIST EXAMPLES PRACTICE 
+
+## TOPIC COVERED 
+- PYTHON LIST
+
+
+## WHAT YOU'LL LEARN 
+- ACCESS LIST
+- CHANGE LIST
+- ADD LIST ITEM
+- REMOVE LIST ITEM
+- LOOP LIST
+- SORT LIST
+- COPY LIST
+- JOIN LIST
+- LIST COMPHREHENSION
 
 ## created by 
 JAWERIYA MAHIN
