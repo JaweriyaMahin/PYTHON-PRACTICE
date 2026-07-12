@@ -155,6 +155,36 @@ IT SIMPLIFIES DECISION MAKING WITH USE OF MATCH CASE STATEMENTS
 - DEFAULT CASE (CASE_)
 - REAL WORLD EXAMPLES
 
+
+# PYTHON DAY 8
+
+## OVERVIEW 
+THIS FILE CONTAIN PYTHON RANGE FUNCTION 
+
+## TOPIC COVERED
+- range(stop)
+- range(start, stop)
+- range(start, stop, step)
+- Positive and negative steps
+- Reverse counting
+- Even and odd numbers
+- Pattern printing
+- Practical loop examples
+
+
+## Learning Outcomes
+- Understand how the range() function works.
+- Use range() with for loops.
+- Generate custom number sequences.
+- Write cleaner and more efficient Python loops.
+
+
+## TECHNOLOGY USED
+- PYTHON
+- VS CODE
+- GIT
+- GITHUB
+
 ## created by 
 JAWERIYA MAHIN
 
