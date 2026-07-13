@@ -185,6 +185,35 @@ THIS FILE CONTAIN PYTHON RANGE FUNCTION
 - GIT
 - GITHUB
 
+
+# PYTHON DAY 09
+
+# Python Arrays
+
+## 📌 Overview
+
+This file contains basic Python Array practice using the `array` module with simple examples.
+
+## Topics Covered
+
+* Creating an array
+* Accessing array elements
+* Appending elements
+* Inserting elements
+* Removing elements
+
+## Learning Outcomes
+
+* Create and use arrays in Python.
+* Perform basic array operations.
+* Access, update, and traverse array elements.
+* Work with common array methods.
+
+## Technology Used
+
+* Python
+* vs code
+
 ## created by 
 JAWERIYA MAHIN
 
