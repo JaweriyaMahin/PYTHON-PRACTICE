@@ -217,9 +217,6 @@ Python loops are used to execute a block of code repeatedly until a condition be
 - for Loop
 - while Loop
 - range() Function
-- Looping through Lists
-- Looping through Strings
-- Nested Loops
 - break Statement
 - continue Statement
 - else with for Loop
