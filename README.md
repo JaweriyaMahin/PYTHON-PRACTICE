@@ -210,6 +210,8 @@ This file contains basic Python Array practice using the `array` module with sim
 
 #  PYTHON DAY 10
 
+python loop
+
 ## Overview
 Python loops are used to execute a block of code repeatedly until a condition becomes false or all items in a sequence are processed. They help automate repetitive tasks, reduce code duplication, and make programs more efficient.
 
@@ -232,6 +234,97 @@ Python loops are used to execute a block of code repeatedly until a condition be
 - Gained a strong understanding of Python loops and iteration.
 - Improved problem-solving skills through hands-on practice.
 
+
+# PYTHON DAY 11
+
+# Python Iterators
+
+## About
+A **Python Iterator** is an object that allows you to access elements of a collection one by one. It helps process data efficiently without loading everything into memory at once.
+
+## Topics Covered
+- What is an Iterator?
+- `iter()` Function
+- `next()` Function
+- `StopIteration`
+
+## Key Points
+- Iterators return one element at a time.
+- iter() creates an iterator
+- next() returns the next element
+- Every iterator is an iterable, but not every iterable is an iterator
+
+## Advantages
+- Memory efficient
+- Easy data traversal
+- Suitable for large datasets
+
+## Conclusion
+Python Iterators provide a simple and efficient way to iterate through data one element at a time
+making programs more memory-efficient and easier to manage.
+
+
+
+# PYTHON DAY 12
+
+# Python Function Defining and Calling
+
+## About
+A **function** is a reusable block of code that performs a specific task. In Python, a function is created using the `def` keyword and executed by calling its name.
+
+## Topics Covered
+- Function Defining
+- Function Calling
+- Syntax of Functions
+- Function Parameters
+- Return Statement
+
+## Key Points
+- Functions are defined using the `def` keyword.
+- A function runs only when it is called.
+- Functions help avoid code repetition
+
+## Advantages
+- Reusable code
+- Easy to understand
+- Reduces code duplication
+
+
+
+# PYTHON DAY 13
+
+# Python Functions
+
+## About
+This repository contains Python Function concepts with simple programs for beginners. It covers different types of functions and advanced function features used in Python.
+
+##  Topics Covered
+- Function Defining
+- Function Calling
+- Python Arguments
+- Python Scope
+- Python Decorators
+- Lambda Functions
+- Recursion
+- Generators
+- `*args`
+- `**kwargs`
+
+## Key Points
+- Functions are defined using the `def` keyword.
+- Functions execute only when they are called.
+- Arguments pass values to functions.
+- Scope controls where variables can be accessed.
+- Decorators add extra functionality to functions.
+- Lambda functions are single-line anonymous functions.
+- Recursion is when a function calls itself.
+- Generators use the `yield` keyword to generate values one at a time.
+- `*args` accepts multiple positional arguments.
+- `**kwargs` accepts multiple keyword arguments.
+
+##  Advantages
+- Code Reusability
+- Memory Efficient (Generators)
 ## created by 
 JAWERIYA MAHIN
 
