@@ -24,6 +24,7 @@
 - DAY 01 COMPLETE : PYTHON BASICS 
 - DAY 02 COMING SOON....
 
+
 # PYTHON PRACTICE DAY 02
 ## TOPIC
 PYTHON INPUT FUNCTION
@@ -337,7 +338,6 @@ This repository contains Python Function concepts with simple programs for begin
 
  ### Python Modules
 
-## What is a Module?
 
 A **module** is a Python file that contains reusable code (functions, classes, and variables).
 
@@ -356,7 +356,7 @@ A **module** is a Python file that contains reusable code (functions, classes, a
 
 # Python `datetime` Module
 
-**Use:** Used for working with date and time.
+ Used for working with date and time.
 
 ### Common Functions
 
