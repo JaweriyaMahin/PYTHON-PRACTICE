@@ -199,3 +199,14 @@ print(json.dumps(student))
 # {"name": "Riya"}
 
 
+import json
+
+data = {"passed": True}
+
+print(json.dumps(data))
+
+# Output:
+# {"passed": true}
+
+
+
