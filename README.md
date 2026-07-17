@@ -24,6 +24,7 @@
 - DAY 01 COMPLETE : PYTHON BASICS 
 - DAY 02 COMING SOON....
 
+
 # PYTHON PRACTICE DAY 02
 ## TOPIC
 PYTHON INPUT FUNCTION
@@ -325,6 +326,54 @@ This repository contains Python Function concepts with simple programs for begin
 ##  Advantages
 - Code Reusability
 - Memory Efficient (Generators)
+
+
+# PYTHON DAY 14
+
+## TOPIC COVERED
+- PYTHON MODULE
+- PYTHON MATH
+- PYTHON DATE
+
+
+ ### Python Modules
+
+
+A **module** is a Python file that contains reusable code (functions, classes, and variables).
+
+#  Python `math` Module
+
+ Used for mathematical calculation
+
+### Common Functions
+
+* sqrt() – Square root
+* factorial() – Factorial
+* pow() – Power
+* ceil() – Round up
+* floor() – Round down
+* gcd() – Greatest Common Divisor
+
+# Python `datetime` Module
+
+ Used for working with date and time.
+
+### Common Functions
+
+* datetime.now() – Current date & time
+* strftime() – Format date
+* strptime() – String to date
+* date() – Current date
+* time() – Current time
+* timedelta() – Add/Subtract date 
+
+## Key Points
+
+* Module = Reusable Python file.
+* math = Mathematical functions.
+* datetime = Date & time functions.
+* Both are built-in Python modules.
+
 ## created by 
 JAWERIYA MAHIN
 
