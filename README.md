@@ -374,6 +374,44 @@ A **module** is a Python file that contains reusable code (functions, classes, a
 * datetime = Date & time functions.
 * Both are built-in Python modules.
 
+# PYTHON DAY 15
+
+
+# Python JSON
+
+## What is JSON?
+
+**JSON (JavaScript Object Notation)** is a lightweight data format used to store and exchange data between applications. Python provides the built-in **json** module to work with JSON data.
+
+## Why Use JSON?
+
+* Store structured data
+* Read and write configuration files
+* Work with APIs
+
+## Common Functions
+
+* `json.loads()` → Convert JSON string to Python object
+* `json.dumps()` → Convert Python object to JSON string
+* `json.load()` → Read JSON from a file
+* `json.dump()` → Write JSON to a file
+
+## Real-Life Uses
+
+* REST APIs
+* Configuration files
+* Data storage
+* Web applications
+* Cloud and DevOps automation
+
+## Key Points
+
+* Built-in Python module
+* Human-readable format
+* Easy to parse
+* Language-independent
+* Widely used in modern applications
+
 ## created by 
 JAWERIYA MAHIN
 
