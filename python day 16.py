@@ -98,4 +98,3 @@ print(result)
 
 # Output:['Python', 'is', 'easy']
 
-
