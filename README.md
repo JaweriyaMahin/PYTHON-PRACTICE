@@ -412,6 +412,28 @@ A **module** is a Python file that contains reusable code (functions, classes, a
 * Language-independent
 * Widely used in modern applications
 
+
+
+# Python  day 16
+
+# python RegEx
+
+## What is Regex?
+Regex (Regular Expression) is used to **search, match, replace, and validate text** in Python.
+
+## Common Functions
+- `re.search()` → Finds the first match
+- `re.match()` → Matches from the beginning
+- `re.findall()` → Returns all matches
+- `re.split()` → Splits a string
+- `re.sub()` → Replaces matched text
+  
+## Uses
+- Email validation
+- Phone number validation
+- Password validation
+- Search and replace text
+
 ## created by 
 JAWERIYA MAHIN
 
