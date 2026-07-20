@@ -434,6 +434,26 @@ Regex (Regular Expression) is used to **search, match, replace, and validate tex
 - Password validation
 - Search and replace text
 
+# python day 17
+
+# Python String Formatting
+
+## What is String Formatting?
+String formatting is used to insert values into a string and display output in a readable format.
+
+## Methods
+- f-string
+- `format()`
+- `%` formatting
+
+## Uses
+- Display variables in text
+- Format numbers and decimals
+- Show percentages
+
+## Conclusion
+Python string formatting makes output clean, readable, and easy to customize.
+
 ## created by 
 JAWERIYA MAHIN
 
