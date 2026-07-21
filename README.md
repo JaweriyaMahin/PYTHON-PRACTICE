@@ -1,5 +1,5 @@
 # PYTHON PRACTICE-DAY01 
-## 20 DAYS PYTHON PRACTICE CHALLENGE
+## 30 DAYS PYTHON PRACTICE CHALLENGE
 
 ## THIS REPOSITORY CONTAIN MY DAY 1 PYTHON PRACTICE 
 
@@ -453,6 +453,27 @@ String formatting is used to insert values into a string and display output in a
 
 ## Conclusion
 Python string formatting makes output clean, readable, and easy to customize.
+
+
+# PYTHON DAY 18 
+
+# Python OOP (Object-Oriented Programming)
+
+This project demonstrates the basic concepts of Python OOP with simple examples.
+
+## Topics Covered
+- OOP
+- Classes & Objects
+- `__init__()` Method
+- `self` Parameter
+- Class Properties
+- Class Methods
+- Inheritance
+
+## Features
+- Beginner-friendly examples
+- Simple and easy-to-understand code
+- Output included with each example
 
 ## created by 
 JAWERIYA MAHIN
