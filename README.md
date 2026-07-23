@@ -475,6 +475,29 @@ This project demonstrates the basic concepts of Python OOP with simple examples.
 - Simple and easy-to-understand code
 - Output included with each example
 
+# python day 19
+
+## Python OOP Concepts
+
+This project covers the basic Object-Oriented Programming (OOP) concepts in Python with simple examples.
+
+## Topics Covered
+- Polymorphism
+- Encapsulation
+- Inner Class
+
+## Concepts
+
+### Polymorphism
+One method, many forms. The same method behaves differently in different classes.
+
+### Encapsulation
+Wrapping data and methods into a single class to improve security and organization.
+
+### Inner Class
+A class defined inside another class to group related functionality together.
+
+
 ## created by 
 JAWERIYA MAHIN
 
