@@ -497,6 +497,33 @@ Wrapping data and methods into a single class to improve security and organizati
 ### Inner Class
 A class defined inside another class to group related functionality together.
 
+# PYTHON DAY 20 
+
+## PYTHON LAMBDA 
+THIS FILE CONTAIN PYTHON LAMBDA FUNTION AND COVER BASIC PYTHON LAMBDA EXAMPLES
+
+## What is Lambda Function?
+- Lambda Function is an anonymous (unnamed) function in Python.
+- It is used to create small, simple, and one-line functions
+- It is useful when a function is needed only for a short time.
+
+## Features
+- No function name is required.
+- Best for short and simple operations.
+
+## Common Uses
+- Mathematical calculations
+- String operations
+- Conditional expressions
+- `map()`
+- `filter()`
+- `reduce()`
+
+
+## Advantages
+- Short and easy to write.
+- Improves code readability for simple tasks.
+- Useful for temporary functions.
 
 ## created by 
 JAWERIYA MAHIN
