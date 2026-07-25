@@ -191,7 +191,7 @@ THIS FILE CONTAIN PYTHON RANGE FUNCTION
 
 # Python Arrays
 
-## 📌 Overview
+##  Overview
 
 This file contains basic Python Array practice using the `array` module with simple examples.
 
@@ -524,6 +524,35 @@ THIS FILE CONTAIN PYTHON LAMBDA FUNTION AND COVER BASIC PYTHON LAMBDA EXAMPLES
 - Short and easy to write.
 - Improves code readability for simple tasks.
 - Useful for temporary functions.
+
+  
+
+# PYTHON DAY 21
+
+# Python Exception Handling (try/except)
+
+Python Exception Handling is used to handle runtime errors so that the program does not stop unexpectedly
+It allows the program to continue running even if an error occurs.
+
+## Keywords
+* try→ Write code that may cause an exception.
+* except → Handles the exception.
+* else → Executes only if no exception occurs.
+* finally → Always executes, whether an exception occurs or not.
+* raise → Used to manually raise an exception.
+* Exception as e → Captures and displays the error message.
+  
+
+## Common Exceptions
+* `ZeroDivisionError`
+* `ValueError`
+* `TypeError`
+  
+## Key Points
+* Prevents program crashes.
+* Makes code more reliable.
+* Helps identify and handle different types of errors.
+* Widely used in real-world Python applications.
 
 ## created by 
 JAWERIYA MAHIN
