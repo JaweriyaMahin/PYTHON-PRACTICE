@@ -554,6 +554,43 @@ It allows the program to continue running even if an error occurs.
 * Helps identify and handle different types of errors.
 * Widely used in real-world Python applications.
 
+# PYTHON DAY 22
+
+# Python DSA (Data Structures & Algorithms)
+
+## What is DSA?
+DSA stands for Data Structures and Algorithms.
+It helps organize data efficiently and solve problems using optimized logic.
+
+## Data Structures
+- Arrays / Lists
+- Strings
+- Tuples
+- Dictionaries (Hash Maps)
+- Sets
+- Stack
+- Queue
+- Linked List
+- Trees (Binary Tree, BST)
+- Heap
+- Graph
+
+## Algorithms
+- Linear Search
+- Binary Search
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Recursion
+
+## Why Learn DSA?
+- Improves problem-solving skills
+- Helps in coding interviews
+- Makes programs faster and more efficient
+- Builds a strong programming foundation
+  
 ## created by 
 JAWERIYA MAHIN
 
