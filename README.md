@@ -590,6 +590,73 @@ It helps organize data efficiently and solve problems using optimized logic.
 - Helps in coding interviews
 - Makes programs faster and more efficient
 - Builds a strong programming foundation
+
+
+# PYTHON DAY 23
+
+## Python Basic Practice 
+
+## Description
+
+This repository contains basic Python practice projects to improve programming logic and understand Python fundamentals.
+
+## Projects Included
+
+### 1. Add Two Numbers
+
+A simple Python program to add two numbers using basic operations.
+
+### 2. Remove List Duplicates
+
+A Python program to remove duplicate elements from a list and keep only unique values.
+
+### 3. Reverse String
+
+A Python program to reverse a given string using Python string operations.
+
+## Concepts Used
+
+- Variables
+- Data Types
+- Lists
+- Strings
+- Basic Operations
+- Loops
+- Conditional Statements
+
+
+  # PYTHON DAY 24
+
+  # Python Exception Handling
+
+## Description
+
+This repository contains Python practice examples of Exception Handling.
+
+Exception Handling is used to handle runtime errors properly and prevent programs from crashing unexpectedly.
+
+## Concepts Covered
+
+- try block
+- except block
+- else block
+- finally block
+- raise keyword
+
+## Key Learnings
+
+- Handling runtime errors
+- Understanding different types of exceptions
+- Creating custom exceptions
+- Writing stable Python programs
+
+## Real Time Usage
+
+- Application error handling
+- API error management
+- Automation scripts
+- Server monitoring tools
+- Production debugging
   
 ## created by 
 JAWERIYA MAHIN
