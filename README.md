@@ -657,7 +657,52 @@ Exception Handling is used to handle runtime errors properly and prevent program
 - Automation scripts
 - Server monitoring tools
 - Production debugging
-  
+
+# python day 25
+
+## practice all topic 
+
+# Python Basics Examples
+
+## Overview
+This project contains simple Python examples for beginners.
+
+## Topics Covered
+- Variables
+- Input & Output
+- Operators
+- If-Else
+- Loops
+- Functions
+- List
+- Tuple
+- Dictionary
+- Set
+- File Handling
+- Exception Handling
+- Modules
+- Class
+- Object
+- Constructor
+- Inheritance
+- os Module
+- JSON
+- requests
+- boto3
+
+## Skills Learned
+- Python Basics
+- Object-Oriented Programming (OOP)
+- File Handling
+- Exception Handling
+- Python Modules
+- Basic AWS Automation
+
+## Outcome
+Successfully learned Python fundamentals and basic OOP concepts
+These examples provide a strong foundation for DevOps automation and scripting.
+
+
 ## created by 
 JAWERIYA MAHIN
 
